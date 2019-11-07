@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: New product
+title: New product - how to
 date: 2019-11-06T17:52:08.041Z
 description: |
   description of new blog post
