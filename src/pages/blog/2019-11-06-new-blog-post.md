@@ -5,7 +5,7 @@ date: 2019-11-06T17:52:08.041Z
 description: |
   description of how to
 featuredpost: true
-featuredimage: /img/blog-index.jpg
+featuredimage: /img/img_0310.jpg
 tags:
   - coffee
 ---
