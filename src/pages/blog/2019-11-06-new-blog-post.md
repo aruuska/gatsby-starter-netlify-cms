@@ -9,7 +9,7 @@ featuredimage: /img/img_0310.jpg
 tags:
   - coffee
 ---
-This is how you can... 
+This is how you can... change
 
 Body text of new product how to Body text of new product how to Body text of new product how to Body text of new product how to Body text of new product how to Body text of new product how to Body text of new product how to Body text of new product how to Body text of new product how to Body text of new product how to Body text of new product how to Body text of new product how to Body text of new product how to Body text of new product how to Body text of new product how to
 
